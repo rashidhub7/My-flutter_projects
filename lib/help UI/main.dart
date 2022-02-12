@@ -27,6 +27,7 @@ class Design extends StatelessWidget {
                 child: Text(
                   "Request Help",
                   style: TextStyle(color: Colors.white, fontSize: 20),
+
                 ),
               ),
             ],
